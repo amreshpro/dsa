@@ -1,0 +1,6 @@
+Datastructures
+- It is a way to organize data.
+2 types of data strucutre
+    1. Linear - Array, Linked List, Stack, Queue
+    2. Non-Linear - Tree, Graph
+
