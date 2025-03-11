@@ -1,4 +1,4 @@
-package array;
+package mathematics;
 
 public class RemoveEvenFromArray {
 
