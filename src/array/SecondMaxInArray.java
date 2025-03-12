@@ -1,4 +1,4 @@
-package mathematics;
+package array;
 
 public class SecondMaxInArray {
 
